@@ -1,0 +1,16 @@
+# change the all case of string into upper  (upper())
+val_upper = "Hello World";
+print(val_upper.upper());
+
+# change the all case of string into lower  (lower())
+val_lower = "HeLLo WorlD";
+print(val_lower.lower());
+
+# check this is string's all case are in upper or lower
+#  (isupper(), islower()).
+val_case = "hel1o world";
+print(val_case.isupper());
+
+val_case = "hello world";
+print(val_case.islower());
+#ashu
